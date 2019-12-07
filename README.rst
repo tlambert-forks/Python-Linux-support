@@ -7,7 +7,8 @@ into a Linux AppImage.
 It works by downloading and building the standard Python sources, after
 ensuring that key system libraries are installed. It installs the compiled
 Python into a temporary prefix location, strips out parts that aren't needed,
-and packages the result.
+and packages the result. It is a very close analog to the "embedded"
+Windows distribution that is officially provided by the Python project.
 
 The master branch of this repository has no content; there is an
 independent branch for each supported version of Python. The following
