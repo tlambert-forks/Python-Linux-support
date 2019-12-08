@@ -19,3 +19,10 @@ Python versions are supported:
 * `Python 3.6 <https://github.com/beeware/Python-Linux-support/tree/3.6>`__
 * `Python 3.7 <https://github.com/beeware/Python-Linux-support/tree/3.7>`__
 * `Python 3.8 <https://github.com/beeware/Python-Linux-support/tree/3.8>`__
+
+Suggestions for changes should be made against the `dev branch
+<https://github.com/beeware/Python-Linux-support/tree/dev>`__; these
+will then be backported into the supported Python releases. The dev branch will
+track the most recent supported version of Python (currently, Python 3.8).
+
+See the individual branches for usage instructions.
